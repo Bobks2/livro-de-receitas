@@ -11,4 +11,4 @@ só nos testes
 só nos testes
 
 
-panquec
+panque
